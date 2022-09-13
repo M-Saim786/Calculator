@@ -1,0 +1,51 @@
+.container
+{
+    /* border: 1px solid red; */
+text-align: center;
+display: inline-block;
+margin-top: 50px;
+margin-left: 300px;
+box-shadow: 5px 20px 32px black;
+background-color: #dae7e7;
+height: 60vh;
+    width: 100vh;
+    border-radius: 15px;
+}
+table
+{
+    /* border: 1px solid red; */
+margin: auto;
+}
+td
+{
+    padding: 4px 14px;
+}
+
+button
+{
+    background-color: azure;
+    width: 100px;
+    height: 45px;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 4px 3px black;
+}
+button:hover
+{
+    /* box-shadow: 10px 10px 10px black; */
+    /* border: 1px solid black; */
+    border-style: inset;
+    background-color: white;
+}
+input
+{
+    width: 90%;
+    /* height: 50px; */
+    font-size: 30px;
+    border-radius: 15px;
+    margin: 20px 20px;
+    height: 7vh;
+    padding: 8px 8px;
+
+}
